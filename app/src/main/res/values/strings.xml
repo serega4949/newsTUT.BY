@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RSS feed TUT.BY</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="no_new_news">Нет новых новостей</string>
+    <string name="title_list_news">Список новостей</string>
+    <string name="title_detail_new">Подробно о новости</string>
+    <string name="message_fail_refresh">Не удалось обновить данные. Проверьте подключение к интернету</string>
+
+</resources>
